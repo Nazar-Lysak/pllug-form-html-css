@@ -80,7 +80,7 @@ main {
 }
 
 .main__form {
-    height: 390px;
+    height: max-content;
     width: 50%;
 }
 
