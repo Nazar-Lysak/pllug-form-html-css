@@ -67,7 +67,7 @@ main {
     align-items: center;
 }
 
-.main__leftbar__secondary-text {
+.main__secondary-text {
     margin-bottom: 40px;
     color: #8D8DA5;
 }
@@ -93,7 +93,6 @@ main {
     transition: .3s;
     border: solid 1px #dbdfeb;
     border-radius: 8px;
-
 }
 
 .main__input:focus {
